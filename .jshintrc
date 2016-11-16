@@ -90,11 +90,8 @@
 
     // Custom Globals
     "globals"       : {
-<<<<<<< HEAD
-      "require": true,
-      "test": true
-=======
-      "require": true
->>>>>>> 631c5018872144f5766d4b1bbf19cc9a723a95ae
-    }        // additional predefined global variables
+        "require": true,
+        "test": true
+    }
+
 }
